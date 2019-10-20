@@ -8,6 +8,8 @@ AI uses minMax algorithm
 
 
 TicTakToeCalulator.swift contains all calcutoions funcations.
+
 findTheBestMove() which returns the location of best move for AI
+
 checkWin() which return the current status of the game
 
